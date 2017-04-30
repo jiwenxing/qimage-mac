@@ -12,11 +12,13 @@
 - 使用简单，只需配置环境变量即可，无需修改代码
 
 ## Preview
-1. 本地图片文件上传
+1. 本地图片文件上传 <br/>
 ![](http://ochyazsr6.bkt.clouddn.com/950618acbb4b0115c1f737b568e61253.gif)
-2. 截图上传
+
+2. 截图上传  <br/>
 ![](http://ochyazsr6.bkt.clouddn.com/d5f313abfe6d7b70d8907d25c35c1199.gif)
-3. 本地视频文件上传
+
+3. 本地视频文件上传  <br/>
 ![](http://ochyazsr6.bkt.clouddn.com/e3e8f336c4dd7dec7e75cd8e98d9b4b2.gif)
 
 > 演示gif使用macdown及licecap制作
