@@ -3,7 +3,7 @@
 目前支持mac及windows，其中mac版基于Alfred实现，windows版基于Autohotkey实现，两者都是通过基于七牛API服务的命令行工具qshell实现图片上传。
 
 # mac版
-详细的使用教程请参考：[使用qiniu-image-tool在markdown中愉快的贴图]()
+详细的使用教程请参考：[使用alfred在markdown中愉快的贴图]()
 
 ## Features
 - 支持jpg、png、bmp及gif等各种图片格式
