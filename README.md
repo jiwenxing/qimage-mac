@@ -5,6 +5,13 @@
 # mac版
 详细的使用教程请参考：[使用alfred在markdown中愉快的贴图](http://jverson.com/2017/04/28/alfred-qiniu-upload/)
 
+## Changlog
+
+### 2017/05/02: v1.1
+
+1. 添加样式分隔符和样式选择。
+2. 支持使用前缀以区分不同上传源。
+
 ## Features
 - 支持jpg、png、bmp及gif等各种图片格式
 - 图片大于指定size自动压缩（仅限png和jpg格式） in process
