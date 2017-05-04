@@ -47,14 +47,16 @@ appstore及[官网](https://www.alfredapp.com)均可下载安装，workflow功�
 ## Requirements
 `qshell`   `AutoHotkey` `七牛账号`
 
-## Changlog
+# Changlog
 
-### v1.0-beta: 2017/05/02
+## v1.0-beta: 2017/05/02
+
+### mac version
 
 1. 添加样式分隔符和样式选择。
 2. 支持使用前缀以区分不同上传源。
 
-## License
+# License
 MIT License.     
 Copyright (c) 2017 Jverson
 
