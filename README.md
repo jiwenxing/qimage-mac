@@ -30,12 +30,6 @@ windows版本请移步至：https://github.com/jiwenxing/qiniu-image-tool-win
 > 演示gif使用macdown及licecap制作
 
 
-# Changlog
-
-## v1.0-beta: 2017/05/02
-1. 添加样式分隔符和样式选择。
-2. 支持使用前缀以区分不同上传源。
-
 # License
 MIT License.     
 Copyright (c) 2017 Jverson
