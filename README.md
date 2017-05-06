@@ -24,7 +24,7 @@ windows版本请移步至：https://github.com/jiwenxing/qiniu-image-tool-win
 ![](https://github.com/jiwenxing/qiniu-image-tool/blob/master/res/paste.gif?raw=true)
 
 3. 其它文件上传  <br/>
-![](http://ochyazsr6.bkt.clouddn.com/44abc2188eb45a166ad8a5f7df1ca92f.gif)
+![](https://raw.githubusercontent.com/jiwenxing/qiniu-image-tool/master/res/file.gif)
 
 
 > 演示gif使用macdown及licecap制作
