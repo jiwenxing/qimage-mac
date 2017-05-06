@@ -1,5 +1,5 @@
 # qiniu-image-tool-mac
-**qiniu-image-tool**是一个提升markdown贴图体验的实用小工具，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器。目前支持mac及windows，其中mac版基于Alfred实现，windows版基于Autohotkey实现，两者都是通过基于七牛API服务的命令行工具qshell实现图片上传。
+**qiniu-image-tool-mac**是一个mac中提升markdown贴图体验的实用小工具，基于Alfred实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
 
 # Usage
 详细的使用教程请参考：[使用alfred在markdown中愉快的贴图](http://jverson.com/2017/04/28/alfred-qiniu-upload/)     
