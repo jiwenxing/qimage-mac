@@ -5,6 +5,7 @@
 详细的使用教程请参考：[使用alfred在markdown中愉快的贴图](http://jverson.com/2017/04/28/alfred-qiniu-upload/)     
 windows版本请移步至：https://github.com/jiwenxing/qiniu-image-tool-win
 
+**注意，bucketDomain & prefix 两项设置请不要忘记末尾的'/'**
 
 ## Features
 - 支持jpg、png、bmp及gif等各种图片格式
