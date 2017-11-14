@@ -1,7 +1,14 @@
 # qiniu-image-tool-mac
 **qiniu-image-tool-mac**是一个mac中提升markdown贴图体验的实用小工具，基于Alfred实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
 
-# Usage
+## Changelog
+
+- v1.1 - 2017.11 - 针对 [issue #4](https://github.com/jiwenxing/qiniu-image-tool/issues/4) 新增支持自定义文件名称的 workflow ：`support user-defined file name.alfredworkflow`    
+特点：
+  1. 上传本地图片则默认使用原图片名称
+  2. 上传截图或网络图片时，会弹窗提示输入自定义图片名称
+
+## Usage
 详细的使用教程请参考：[使用alfred在markdown中愉快的贴图](http://jverson.com/2017/04/28/alfred-qiniu-upload/)     
 windows版本请移步至：https://github.com/jiwenxing/qiniu-image-tool-win
 
