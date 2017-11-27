@@ -2,11 +2,13 @@
 <div align=center>
     <p><img src="http://7xry05.com1.z0.glb.clouddn.com/201711271735_182.png" alt="qimage-mac"/></p>
     <a target="_blank" href="https://travis-ci.org/cdoco/grank" title="Build Status"><img src="https://travis-ci.org/cdoco/grank.svg?branch=master"></a>
+    <a target="_blank" href="https://github.com/jiwenxing/qiniu-image-tool/archive/v1.1-release.zip" title="Build Status"><img src="https://img.shields.io/github/downloads/atom/atom/latest/total.svg"></a>
     <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </div>
 
+___
 
-**qiniu-image-tool-mac**是一个mac中提升markdown贴图体验的实用小工具，基于Alfred实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
+**qimage-mac**是一个mac中提升markdown贴图体验的实用小工具，基于Alfred实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
 
 ## Changelog
 
