@@ -1,14 +1,14 @@
 
 <div align=center>
     <p><img src="http://7xry05.com1.z0.glb.clouddn.com/201711271735_182.png" alt="qimage-mac"/></p>
-    <a target="_blank" href="https://travis-ci.org/cdoco/grank" title="Build Status"><img src="https://travis-ci.org/cdoco/grank.svg?branch=master"></a>
-    <a target="_blank" href="https://github.com/jiwenxing/qiniu-image-tool/archive/v1.1-release.zip" title="Build Status"><img src="https://img.shields.io/github/downloads/atom/atom/latest/total.svg"></a>
+    <a target="_blank" href="https://travis-ci.org/cdoco/grank" title="platform"><img src="https://img.shields.io/badge/platform-osx--64-lightgrey.svg"></a>
+    <a target="_blank" href="https://github.com/jiwenxing/qiniu-image-tool/archive/v1.1-release.zip" title="download"><img src="https://img.shields.io/badge/download-3.43M%20v1.1-green.svg"></a>
     <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </div>
 
 ___
 
-**qimage-mac**是一个mac中提升markdown贴图体验的实用小工具，基于Alfred实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的markdown引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
+**qimage-mac** 是一个 mac 中提升 markdown 贴图体验的实用小工具，基于 Alfred 实现，可以自定义快捷键，一键上传图片或截图至七牛云，获取图片的 markdown 引用至剪贴板，并自动粘贴到当前编辑器，使用简单方便。
 
 ## Changelog
 
@@ -43,7 +43,8 @@ windows版本请移步至：https://github.com/jiwenxing/qiniu-image-tool-win
 ![](https://raw.githubusercontent.com/jiwenxing/qiniu-image-tool/master/res/file.gif)
 
 
-> 演示gif使用macdown及licecap制作
+
+注：演示gif使用macdown及licecap制作
 
 
 # License
