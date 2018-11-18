@@ -1,6 +1,6 @@
 
 <div align=center>
-    <p><img src="http://7xry05.com1.z0.glb.clouddn.com/201711271735_182.png" alt="qimage-mac"/></p>
+    <p><img src="https://jverson.oss-cn-beijing.aliyuncs.com/201711271735_182.png" alt="qimage-mac"/></p>
     <a target="_blank" href="https://travis-ci.org/cdoco/grank" title="platform"><img src="https://img.shields.io/badge/platform-osx--64-lightgrey.svg"></a>
     <a target="_blank" href="https://github.com/jiwenxing/qiniu-image-tool/archive/v1.1-release.zip" title="download"><img src="https://img.shields.io/badge/download-3.43M%20v1.1-green.svg"></a>
     <a target="_blank" href="https://opensource.org/licenses/MIT" title="License: MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
